@@ -1,0 +1,15 @@
+{
+    "kintone" : {
+        "subdomain": "",
+        "student_app": "",
+        "attend_app": "",
+        "student_token": "",
+        "attend_token": ""
+    },
+    "notify" : {
+        "slack" : {
+            "access_token": "",
+            "channel": "#"
+        }
+    }
+}
